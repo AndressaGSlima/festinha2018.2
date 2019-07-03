@@ -24,3 +24,5 @@ const routes: Routes = [
   declarations: [AddUsuarioPage]
 })
 export class AddUsuarioPageModule {}
+
+
